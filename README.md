@@ -18,3 +18,6 @@ Train at least one model that predicts the conversions and evaluate its performa
 Make at least one submission to the leaderboard
 
 Analyze your best model's parameters and try to make some recommendations to improve the conversion rate in the future
+
+
+The 2 files to train and test models are conversion_data_train.csv & conversion_data_test.csv
