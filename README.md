@@ -1,4 +1,7 @@
 # Bloc3_certification_ConversionRateChallenge
+
+My video link : https://share.vidyard.com/watch/JYDpAi7LS7v1JCEuZuAvQi?
+
 Supervised ML project about conversion rate / Logistic regression
 
 www.datascienceweekly.org is a famous newsletter curated by independent data scientists.
